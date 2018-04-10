@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2017\Projects\DataSet(ADO.Net)\DataSet(ADO.Net)\bin\Debug\DataSet(ADO.Net).exe.config
+c:\users\user\documents\visual studio 2017\Projects\DataSet(ADO.Net)\DataSet(ADO.Net)\bin\Debug\DataSet(ADO.Net).exe
+c:\users\user\documents\visual studio 2017\Projects\DataSet(ADO.Net)\DataSet(ADO.Net)\bin\Debug\DataSet(ADO.Net).pdb
+c:\users\user\documents\visual studio 2017\Projects\DataSet(ADO.Net)\DataSet(ADO.Net)\obj\Debug\DataSet(ADO.Net).csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\DataSet(ADO.Net)\DataSet(ADO.Net)\obj\Debug\DataSet_ADO.Net_.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\DataSet(ADO.Net)\DataSet(ADO.Net)\obj\Debug\DataSet_ADO.Net_.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\DataSet(ADO.Net)\DataSet(ADO.Net)\obj\Debug\DataSet(ADO.Net).csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\DataSet(ADO.Net)\DataSet(ADO.Net)\obj\Debug\DataSet(ADO.Net).exe
+c:\users\user\documents\visual studio 2017\Projects\DataSet(ADO.Net)\DataSet(ADO.Net)\obj\Debug\DataSet(ADO.Net).pdb
